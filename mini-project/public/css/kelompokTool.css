@@ -1,0 +1,23 @@
+body{
+    background-image: url(contoh.png);
+    font: 16px/28px arial, sans-serif;
+    color: #333;
+}
+.container{
+    background-color: #fff;
+    margin: auto;
+    width: 1000px;
+    height: 1500px;
+  
+}
+.kta{
+    margin-top:35px
+}
+.kata{
+    height:100px
+}
+.table{
+    top:50px;
+    position:relative
+    
+}

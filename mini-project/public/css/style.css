@@ -1,0 +1,39 @@
+/* student login */
+
+body{
+    background-image: url(elektroo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+
+  }
+
+  .col-12{
+      height : 100px;
+      margin-top:50px;
+     
+  }
+  .form-main{
+      padding : 150px;
+      background-color : green;
+      width:650px;
+      top:100px;
+      position :relative;
+      left:500px
+
+  }
+  .submit{
+     margin-left:50px;
+     margin-top:20px
+  }
+  .kata{
+    margin-left:90px;
+    margin-top:-50px
+  }
+  .judul{
+    background-color:black;
+    width:500px;
+    text-align: center;
+    top:50px;
+    left:600px;
+    position:relative
+}
